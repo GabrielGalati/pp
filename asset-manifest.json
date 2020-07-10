@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pp/static/css/main.c5bad317.chunk.css",
+    "main.js": "/pp/static/js/main.39c6c4ff.chunk.js",
+    "main.js.map": "/pp/static/js/main.39c6c4ff.chunk.js.map",
+    "runtime-main.js": "/pp/static/js/runtime-main.d1da4df5.js",
+    "runtime-main.js.map": "/pp/static/js/runtime-main.d1da4df5.js.map",
+    "static/js/2.3c8000bd.chunk.js": "/pp/static/js/2.3c8000bd.chunk.js",
+    "static/js/2.3c8000bd.chunk.js.map": "/pp/static/js/2.3c8000bd.chunk.js.map",
+    "index.html": "/pp/index.html",
+    "precache-manifest.9af60ca48d77d9d26c32b348261151ed.js": "/pp/precache-manifest.9af60ca48d77d9d26c32b348261151ed.js",
+    "service-worker.js": "/pp/service-worker.js",
+    "static/css/main.c5bad317.chunk.css.map": "/pp/static/css/main.c5bad317.chunk.css.map",
+    "static/js/2.3c8000bd.chunk.js.LICENSE.txt": "/pp/static/js/2.3c8000bd.chunk.js.LICENSE.txt",
+    "static/media/Merriweather-Regular.ttf": "/pp/static/media/Merriweather-Regular.c97a9fc2.ttf",
+    "static/media/SpaceMono-Regular.ttf": "/pp/static/media/SpaceMono-Regular.52eb73db.ttf",
+    "static/media/Ubuntu-Bold.ttf": "/pp/static/media/Ubuntu-Bold.e00e2a77.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1da4df5.js",
+    "static/js/2.3c8000bd.chunk.js",
+    "static/css/main.c5bad317.chunk.css",
+    "static/js/main.39c6c4ff.chunk.js"
+  ]
+}
